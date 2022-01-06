@@ -1,6 +1,7 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-output: 
+output: "Bhumika Mathur"
+Date: 06-01-2022
   html_document:
     keep_md: true
 ---
